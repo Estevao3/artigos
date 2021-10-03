@@ -1,1 +1,1 @@
-Artigos laravel versão 5.7
+Laravel versão 5.7
